@@ -1,0 +1,1 @@
+Automated Jenkins initial set up with Dockerfile.
